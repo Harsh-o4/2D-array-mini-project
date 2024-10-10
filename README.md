@@ -1,5 +1,5 @@
 # 2D-arrays
-<p> This is a C++ programs to do basic operations and familiarize with the concept of 2D arrays. <br><br>
+<p> This is a C/C++ programs to do basic operations and familiarize with the concept of 2D arrays. <br><br>
  This a menu-driven program that can perform the following tasks:
  <ul>
      <li>Input and print 2D array.</li>
